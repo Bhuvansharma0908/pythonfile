@@ -26,11 +26,11 @@ class Resume:
 
 
 def main():
-    name = "John Doe"
-    email = "johndoe@example.com"
-    phone = "123-456-7890"
+    name = "Raj Kumar"
+    email = "rajkumar@gmail.com"
+    phone = "740963962"
     summary = "Experienced professional with expertise in Python programming."
-    education = "Bachelor of Science in Computer Science, University of XYZ, 2010-2014"
+    education = "Bachelor of Science in Computer Science, University of Chandigarh University"
     experience = "Software Engineer, ABC Company, 2015-present\n- Developed Python applications\n- Collaborated with cross-functional teams"
 
     resume = Resume(name, email, phone, summary, education, experience)
